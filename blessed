@@ -1,0 +1,173 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Solai Dam Tragedy</title>
+  <link rel="stylesheet" href="styles.css">
+<style>
+/* General Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(135deg, #007BFF, #6C63FF);
+  color: #fff;
+  text-align: center;
+  padding: 2em 1em;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2em;
+  margin-top: 0.5em;
+}
+
+nav {
+  background: #343a40;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  display: block;
+  padding: 1em 2em;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background 0.3s;
+}
+
+nav ul li a:hover {
+  background: #495057;
+}
+
+main {
+  padding: 2em;
+}
+
+section {
+  margin-bottom: 2em;
+  background: #fff;
+  padding: 1.5em;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  color: #007BFF;
+  border-bottom: 2px solid #6C63FF;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+section p {
+  margin: 1em 0;
+  line-height: 1.8;
+}
+
+section ul {
+  list-style-type: square;
+  padding-left: 1.5em;
+}
+
+section a.button {
+  display: inline-block;
+  margin-top: 1em;
+  padding: 0.8em 1.2em;
+  background: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+section a.button:hover {
+  background: #0056b3;
+}
+
+footer {
+  background: #343a40;
+  color: #fff;
+  text-align: center;
+  padding: 1.5em 1em;
+  margin-top: 2em;
+  font-size: 0.9em;
+}
+
+footer p {
+  margin: 0.5em 0;
+}
+</style>
+</head>
+<body>
+  <header>
+    <h1>Solai Dam Tragedy</h1>
+    <p>A tragic event that exposed regulatory and environmental failures.</p>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#charges">Nature of Charges</a></li>
+      <li><a href="#proceedings">Legal Proceedings</a></li>
+      <li><a href="#impact">Community Impact</a></li>
+      <li><a href="#lessons">Lessons Learned</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>In May 2018, the Solai Dam in Nakuru County, Kenya, collapsed, leading to 47 deaths and massive displacement of residents. Investigations revealed regulatory failures and environmental negligence.</p>
+      <a href="https://youtu.be/ZaMLeFcAkUs?si=32eBQlEA3WeJjegB" target="_blank" class="button">Watch Video</a>
+    </section>
+    <section id="charges">
+      <h2>Nature of Charges</h2>
+      <ul>
+        <li><strong>Manslaughter:</strong> Negligence in dam safety and loss of life.</li>
+        <li><strong>Neglect of Duty:</strong> Failure to inspect and monitor the dam.</li>
+        <li><strong>Environmental Oversight:</strong> Lack of a proper Environmental Impact Assessment (EIA).</li>
+      </ul>
+    </section>
+    <section id="proceedings">
+      <h2>Legal Proceedings</h2>
+      <p>The case faced significant delays and ended in dismissal due to the prosecution's inability to present evidence. This highlighted systemic failures in Kenya's legal system.</p>
+      <a href="https://youtu.be/Eq65QQD9dSk?si=CyshW4vAIk8pWzdV" target="_blank" class="button">Learn More</a>
+    </section>
+    <section id="impact">
+      <h2>Community Impact</h2>
+      <p>The collapse devastated families and communities. Survivors faced trauma, and many struggled with rebuilding their lives and securing compensation.</p>
+      <a href="https://youtu.be/49rRs3xfA5k?si=BSyRqT3yF95iDWAC" target="_blank" class="button">View Aftermath</a>
+    </section>
+    <section id="lessons">
+      <h2>Lessons Learned</h2>
+      <p>This tragedy underscores the need for strict environmental regulations, efficient legal processes, and accountability to prevent similar disasters.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Solai Dam Tragedy. All rights reserved.</p>
+    <p>Sources: Legal documents, news articles, and documentaries.</p>
+  </footer>
+</body>
+</html>
